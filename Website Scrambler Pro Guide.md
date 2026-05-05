@@ -3,7 +3,7 @@ Website-Ping-Scrambler V1
 Scramble your ping requests for ISP Log Confusion.
 Support my coding ventures — send donations to: https://cash.app/$SethKhaneki
 
-Original Developer: https://github.com/BlackGTNinja a.k.a. (S3THCOD3R)
+Original Developer: https://github.com/S3THCOD3R
 
 ---
 
